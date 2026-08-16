@@ -1,0 +1,25 @@
+{
+  "name": "exchange_rate",
+  "version": "1.0.0",
+  "description": "exchange rate bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delioncourts/exchange_rate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/delioncourts/exchange_rate/issues"
+  },
+  "homepage": "https://github.com/delioncourts/exchange_rate#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "node-telegram-bot-api": "^1.2.0"
+  }
+}
